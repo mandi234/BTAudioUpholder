@@ -1,2 +1,5 @@
 # BTAudioUpholder
-A simpple program that runs in the background on windows machines that tend to disconnect bt devices when idle.
+A simple program that runs in the background on windows 10 machines that tend to disconnect bluetooth audio devices when idle.
+
+Just download the dist directory and run an exe file.
+
